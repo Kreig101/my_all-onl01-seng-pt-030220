@@ -10,5 +10,9 @@ while i < collection.length
 
 
 end
-block_return_values.
+block_return_values..include?(false)
+    false
+  else
+    true
+  end
 end
